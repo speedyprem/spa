@@ -1,2 +1,2 @@
-# spa
-Ssingle page application using angular js
+# spa (Single page Application)
+Single page application using angular js
